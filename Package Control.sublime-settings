@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"ColorHelper",
+		"Django Tags",
+		"Emmet",
+		"Github Color Theme",
+		"Material Monokai",
+		"Materialize",
+		"Monokai Neue",
+		"Monokai++",
+		"Package Control",
+		"SideBarTools",
+		"sublack",
+		"Sublime Tutor",
+		"Theme - Afterglow",
+		"Theme - Arc",
+		"Theme - Monokai+"
+	]
+}
