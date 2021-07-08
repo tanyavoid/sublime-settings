@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Babel",
+		"ColorHelper",
+		"Djaneiro",
+		"Django Tags",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"Git",
+		"Kite Python Autocomplete",
+		"Package Control",
+		"Pylinter",
+		"SideBarTools",
+		"sublack",
+		"Tabnine",
+		"Theme - Afterglow",
+		"TOML",
+	],
+}
