@@ -1,4 +1,5 @@
 {
    "black_skip_string_normalization": true,
-   "black_command": "/home/tanya/.pyenv/shims/black"
+   "black_command": "/home/tanya/.pyenv/shims/black",
+   "black_line_length": 80
 }
