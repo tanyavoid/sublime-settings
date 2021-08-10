@@ -43,7 +43,7 @@
 	"show_encoding": true,
 	"show_errors_inline": false,
 	"show_full_path": true,
-	"spell_check": false,
+	"spell_check": true,
 	"swallow_startup_errors": true,
 	"tabs_small": true,
 	"theme": "ayu-dark.sublime-theme",
