@@ -1,5 +1,8 @@
 {
+    "target": "terminus_exec",
+    "cancel": "terminus_cancel_build",
+    "focus": true,
+
     "cmd": ["/home/tanya/.pyenv/shims/python", "-u", "$file"],
     "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)"
-    // "quiet": true
 }
