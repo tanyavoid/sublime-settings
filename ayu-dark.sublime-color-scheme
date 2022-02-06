@@ -2,7 +2,7 @@
 {
     "variables": {},
     "globals": {
-        "foreground": "#94bbf6"
+        "foreground": "#b4d6ea"
     },
     "rules": [
         {
@@ -23,27 +23,27 @@
         {
             "name": "Number",
             "scope": "constant.numeric",
-            "foreground": "#b81da9"
+            "foreground": "#a03587"
         },
         {
             "name": "Built-in constants",
             "scope": "constant.language",
-            "foreground": "#b81da9"
+            "foreground": "#a03587"
         },
         {
             "name": "Function name",
             "scope": "entity.name.function",
-            "foreground": "#e14282"
+            "foreground": "#cf5484"
         },
         {
             "name": "Function call",
             "scope": "variable.function, variable.annotation, meta.function-call.generic, support.function.go",
-            "foreground": "#e14282"
+            "foreground": "#cf5484"
         },
         {
             "name": "Function arguments",
             "scope": "variable.parameter, meta.parameter",
-            "foreground": "#f1a8c5"
+            "foreground": "#ecadc6"
         }
     ]
 }
